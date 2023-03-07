@@ -1,0 +1,4 @@
+node_modules
+.env.development.local
+.env.staging.local
+src/logs
